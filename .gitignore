@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+charts/
+reports/
+*.html
+.DS_Store
